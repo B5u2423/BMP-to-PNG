@@ -59,7 +59,7 @@ bmp2png <input_bmp> <output_png>
 
 The parameters that affect PNG output quality must be manually configure in the source file and recompile. I just wanted a working program ASAP so I have to cut corners. As for the Python program, just simply run it, it has a GUI made with PyQt5 so it would be easier to navigate around.
 
-![Python Program Preview](/assets/py-program-demo.png)
+![Python Program Preview](./assets/py-program-demo.png)
 
 *Python Program preview*
 
